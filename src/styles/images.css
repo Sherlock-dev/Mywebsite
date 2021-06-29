@@ -1,0 +1,42 @@
+
+/* Add your profile image here */
+.Photo{
+    background-image: url('images/profile.jpg');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('images/tournify.png');
+    cursor: none;    
+}
+.project2{
+    background-image: url('images/weather.jpg');
+    cursor: none;
+}
+.project3{
+    background-image: url('images/snakes.jpg');
+    cursor: none;
+}
+.project4{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+    cursor: none;
+}
+.project5{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
+    cursor: none;
+}
+.project6{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1{
+    background-image: url('images/Dot_1.jpg');
+}
+.misc2{
+    background-image: url('images/landscape.jpg');
+    cursor: none;
+}
+.misc3{
+    background-image: url('images/Outer_Space.jpg');
+    cursor: none;
+}
