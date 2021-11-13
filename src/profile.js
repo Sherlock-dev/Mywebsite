@@ -98,7 +98,7 @@ const projects = [
     id: "project4",
     name: "CVirtura",
     skills: ["HTML, JS, MySQL ,Apache"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/Sherlock-dev/Cvirtura",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
