@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "I am currently a final year computer science and engineering student from IIIT Vadodara. I also am a machine learning and android development enthusiast who also has a great hunger to explore new techmologies. I am also an ardent problem solver who loves challenges and works hard to get to solutions.",
+    "I am currently a final year computer science and engineering student from IIIT Vadodara. I also am a machine learning and android development enthusiast who also has a great hunger to explore new technologies. I am also an ardent problem solver who loves challenges and works hard to get to solutions.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
