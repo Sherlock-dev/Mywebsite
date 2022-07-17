@@ -1,5 +1,5 @@
 This is my personal portfolio Website
-To view a live example, **[click here](https:https://vishalsinghrajput.netlify.app/)**.
+To view a live example, **[click here](https://vishalsinghrajput.netlify.app/)**.
 
 
 ## Getting Started
