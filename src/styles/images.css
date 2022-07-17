@@ -5,27 +5,35 @@
 }
 /* Projects Photo */
 .project1{
-    background-image: url('images/tournify.png');
+    background-image: url('images/verselet.jpeg');
     cursor: none;    
 }
 .project2{
-    background-image: url('images/weather.jpg');
+    background-image: url('images/ml.jpeg');
     cursor: none;
 }
 .project3{
-    background-image: url('images/snakes.jpg');
+    background-image: url('images/home.jpeg');
     cursor: none;
 }
 .project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+    background-image: url('images/dwell.jpeg');
     cursor: none;
 }
 .project5{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
+    background-image: url('images/tournify.png');
     cursor: none;
 }
 .project6{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    background-image: url('images/weather.jpg');
+    cursor: none;
+}
+.project7{
+    background-image: url('images/snakes.jpg');
+    cursor: none;
+}
+.project8{
+    background-image: url('images/cv.jpeg');
     cursor: none;
 }
 /* Miscelaneous Activities photo */

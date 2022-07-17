@@ -1,10 +1,10 @@
 This is my personal portfolio Website
-To view a live example, **[click here](https:)**.
+To view a live example, **[click here](https:https://vishalsinghrajput.netlify.app/)**.
 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of my project up and running on your local machine for development and testing purposes.
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
 
